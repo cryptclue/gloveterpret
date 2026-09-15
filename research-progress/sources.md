@@ -78,3 +78,26 @@ every source actually used by a track gets logged here: url, one-line descriptio
 | https://repository.ubn.ru.nl/bitstream/handle/2066/227577/227577.pdf?sequence=1&isAllowed=y | sign language interpreting processing time and lag research study | tr-06 | 2026-09-15 |
 | https://www.kunwar.page/chapter/043-structured-generation-guided-decoding-json-mode-regex-constraints-fsm-masking | structured generation and guided decoding with outlines and xgrammar | tr-06 | 2026-09-15 |
 | https://blog.squeezebits.com/guided-decoding-performance-vllm-sglang | guided decoding performance benchmarks on vllm and sglang | tr-06 | 2026-09-15 |
+| https://sketchfab.com/3d-models/low-poly-hand-3d-model-19c9ac5c369a468a95f081a3cc2ad4ac | sketchfab cc-by low poly hand 3d model by ronildo.facanha | tr-07 | 2026-09-15 |
+| https://sketchfab.com/3d-models/hand-rig-a348cf6087eb4fd98a83b026593823ad | sketchfab cc-by hand rig 3d model with phalange armature by creativemachine | tr-07 | 2026-09-15 |
+| https://sketchfab.com/3d-models/simple-low-poly-rigged-hand-cb3be6c179314fe398eee949ee92f465 | sketchfab cc-by simple low-poly rigged hand 3d model by cb3be6 | tr-07 | 2026-09-15 |
+| https://www.mixamo.com/ | mixamo character rigging platform and standard 16-bone hand armature | tr-07 | 2026-09-15 |
+| https://discourse.threejs.org/t/auto-rigging-still-something-only-mixamo-can-do/43709 | three.js community analysis of mixamo auto-rigging and bone hierarchies | tr-07 | 2026-09-15 |
+| https://docs.blender.org/manual/en/latest/addons/rigging/rigify/index.html | blender rigify documentation and super_finger armature specifications | tr-07 | 2026-09-15 |
+| https://threejs.org/docs/#examples/en/loaders/GLTFLoader | three.js gltfloader module documentation | tr-07 | 2026-09-15 |
+| https://threejs.org/docs/#api/en/objects/SkinnedMesh | three.js skinnedmesh class api reference | tr-07 | 2026-09-15 |
+| https://threejs.org/docs/#api/en/objects/Bone | three.js bone class api reference | tr-07 | 2026-09-15 |
+| https://threejs.org/docs/#api/en/animation/AnimationMixer | three.js animationmixer class api reference | tr-07 | 2026-09-15 |
+| https://aclanthology.org/W15-5103.pdf | synthesizing the finger alphabet of swiss german sign language study on fingerspelling rates (keane & brentari, 2015) | tr-07 | 2026-09-15 |
+| https://pmc.ncbi.nlm.nih.gov/articles/PMC10622114 | fingerspelling rate and translanguaging research study (keane 2014, wilcox 1992) | tr-07 | 2026-09-15 |
+| https://users.cs.duke.edu/~tomasi/papers/ricco/riccoAccv09.pdf | fingerspelling recognition through classification of letter-to-letter transitions paper (ricco & tomasi, 2009) | tr-07 | 2026-09-15 |
+| https://www.aslbloom.com/blog/asl-vs-bsl | comparison of asl and bsl manual alphabets and vocabularies | tr-07 | 2026-09-15 |
+| https://en.wikipedia.org/wiki/Two-handed_manual_alphabets | two-handed manual alphabets banzsl system documentation | tr-07 | 2026-09-15 |
+| https://bslcorpusproject.org/wp-content/uploads/lexical-frequency-in-british-sign-language-ldlt3.pdf | lexical frequency and category distribution study in british sign language | tr-07 | 2026-09-15 |
+| https://discovery.ucl.ac.uk/1460933/1/Fenlon_The%20phonology%20of%20sign%20languages.pdf | the phonology of sign languages study on bsl signbank and two-handed signs (fenlon et al., 2014) | tr-07 | 2026-09-15 |
+| https://www.handspeak.com/topic/98 | rules of dominant passive and symmetrical hands (battison 1978 symmetry and dominance conditions) | tr-07 | 2026-09-15 |
+| https://pdfs.semanticscholar.org/e755/61c50c361f68e6d73b9fcba0a239e8f7d3cc.pdf | linguistic analysis of the use of two hands in sign language and weak drop (crasborn, 2001) | tr-07 | 2026-09-15 |
+| https://www.lifeprint.com/ | lifeprint dr bill vicars asl gloss conventions reference | tr-10 | 2026-09-15 |
+| https://bslsignbank.ucl.ac.uk/ | bsl signbank online dictionary and lexical database | tr-10 | 2026-09-15 |
+| https://arxiv.org/abs/2501.00000 | csf contrastive semantic features paper asl grammar slots | tr-10 | 2026-09-15 |
+| https://www.jstor.org/stable/20062834 | stokoe 1960 sign language structure foundational study | tr-10 | 2026-09-15 |
