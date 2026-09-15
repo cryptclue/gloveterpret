@@ -64,7 +64,33 @@ adaptionlabs provides two core tools relevant to glovterpreter:
 4. use autoscientist to fine-tune base llm (e.g., a small instruction-tuned model) on the augmented dataset
 5. download resulting weights; deploy for inference in the pipeline
 
-### allenai.org 
+### allenai (allenai.org)
+
+- **asta scientific corpus**
+  - mcp-accessible scientific literature database
+  - useful for searching papers by topic and retrieving paper metadata
+  - supports citation and reference traversal, so we can start from a relevant sign-language paper and follow its references/citing work
+  - `snippet_search` searches full-text passages rather than only titles/abstracts
+  - useful for finding terminology and prior work that wouldn't appear from a simple keyword search
+
+- **asta paper finder**
+  - use for broad prior-art questions where the terminology is uncertain
+  - can reformulate a research question, search across papers, follow citation relationships, and surface why a paper is relevant
+  - useful for the initial research sweep before narrowing down to specific datasets or methods
+
+- **asta scholar qa**
+  - use for questions that require evidence across multiple papers rather than answers from one source
+  - useful for comparing approaches, identifying disagreements between papers, and extracting cited evidence
+  - particularly relevant to questions like comparing sign-language translation architectures or determining what prior work actually supports a claimed research gap
+
+- **asta analyze data**
+  - natural-language interface for exploratory scientific data analysis
+  - potentially useful later for dataset statistics and comparing properties of asl/bsl datasets
+  - not part of the current training pipeline
+
+- **s2orc / scientific corpus**
+  - structured full-text academic corpus underlying ai2's scientific-literature tooling
+  - useful if we need direct programmatic access to large amounts of machine-readable research text rather than querying papers individually
 
 ---
 
@@ -96,4 +122,13 @@ for the interpretation layer (english → gloss), a small fine-tuned llm is pref
 - cost: no per-token api cost for a deployed fine-tuned model
 - accuracy: fine-tuned on domain-specific data outperforms prompted general-purpose models on asl/bsl grammar
 
-for the hackathon demo specifically, running a small model (e.g., 1b–7b parameter class) via api (with adaptionlabs providing the fine-tuned weights) or via a browser-compatible onnx export is the most practical approach.
+### ibm granite
+
+- small language models for testing the english → gloss inference step without requiring a large general-purpose model
+- useful for comparing inference quality, latency, and resource requirements across smaller models
+- granite's smaller models make it a candidate for testing whether the constrained gloss-generation task can run with a relatively small model
+- the watsonx free trial can be used for initial hosted inference experiments before moving inference elsewhere
+
+---
+ 
+initial demo would be running a small model (e.g., 1b–7b parameter class) via api (with adaptionlabs providing the fine-tuned weights) or via a browser-compatible onnx export as the most practical approach.
