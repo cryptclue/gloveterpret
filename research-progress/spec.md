@@ -25,7 +25,10 @@ this folder is the working space for the in-depth research phase of glovterprete
 | tr-04 | utterance boundary + semantic completeness | how do we reliably know an utterance is semantically complete? assemblyai vs speechmatics exact behavior, end-of-turn prediction literature, completeness classifier design |
 | tr-05 | asl dataset access | how do we actually get how2sign / wlasl / asl3dword data, and how do we convert sign video into joint angle lookup tables? |
 | tr-06 | inference layer | what small model + serving setup makes sense for english → gloss in a browser demo? adaptionlabs capabilities, onnx/webllm in-browser options, latency budget |
-| tr-07 | 3d hand rigging + three.js rendering (queued, next batch) | rigged low-poly hand sourcing, skinnedmesh + bones, keyframe interpolation approach |
+| tr-07 | 3d hand rigging + three.js rendering | in progress: rigged low-poly hand sourcing, skinnedmesh + bones, keyframe interpolation, two-hands question for bsl |
+| tr-08 | asta / allenai scientific corpus sweep (queued, needs browserbase session with logged-in asta account) | citation traversal starting from the prior art papers |
+| tr-09 | adaptionlabs feature deep dive | complete feature inventory: every datasets.*/autoscientist.* method, pricing, credit estimation, download + deployment path |
+| tr-10 | seed dataset v0 | 'invent the dataset': 120-150 english→asl gloss + english→bsl gloss pairs grounded in the repo's linguistic docs, in research-progress/datasets/, ready for adaptionlabs upload |
 | tr-08 | asta / allenai scientific corpus sweep (queued, needs browserbase session with logged-in asta account) | citation traversal starting from the prior art papers |
 
 ---
