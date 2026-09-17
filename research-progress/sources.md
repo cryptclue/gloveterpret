@@ -101,3 +101,15 @@ every source actually used by a track gets logged here: url, one-line descriptio
 | https://bslsignbank.ucl.ac.uk/ | bsl signbank online dictionary and lexical database | tr-10 | 2026-09-15 |
 | https://arxiv.org/abs/2501.00000 | csf contrastive semantic features paper asl grammar slots | tr-10 | 2026-09-15 |
 | https://www.jstor.org/stable/20062834 | stokoe 1960 sign language structure foundational study | tr-10 | 2026-09-15 |
+| https://docs.adaptionlabs.ai/adaptive-data/overview | adaptive data architecture, stages, and supported inputs | tr-09 | 2026-09-15 |
+| https://docs.adaptionlabs.ai/adaptive-data-quickstart | adaptive data quickstart and python sdk upload helpers | tr-09 | 2026-09-15 |
+| https://docs.adaptionlabs.ai/api/python/resources/datasets/methods/create | datasets.create api reference and remote import formats | tr-09 | 2026-09-15 |
+| https://docs.adaptionlabs.ai/api/python/resources/datasets/methods/run | datasets.run parameter specification, column mapping, and credit estimation | tr-09 | 2026-09-15 |
+| https://docs.adaptionlabs.ai/adaptive-data/expand-data | dataset augmentation, translation across 242 languages, and localization | tr-09 | 2026-09-15 |
+| https://docs.adaptionlabs.ai/adaptive-data/invent-a-dataset | invent a dataset synthetic data generation documentation | tr-09 | 2026-09-15 |
+| https://docs.adaptionlabs.ai/autoscientist/running-autoscientist | running autoscientist training loops, model selection, and status handling | tr-09 | 2026-09-15 |
+| https://docs.adaptionlabs.ai/autoscientist/supported-models | autoscientist supported base models, parameter tiers, and row count constraints | tr-09 | 2026-09-15 |
+| https://docs.adaptionlabs.ai/autoscientist/recommended-hyperparameters | autoscientist hyperparameter optimization recipe specification | tr-09 | 2026-09-15 |
+| https://docs.adaptionlabs.ai/autoscientist/download-the-model | autoscientist model checkpoint streaming and tar archive structure | tr-09 | 2026-09-15 |
+| https://docs.adaptionlabs.ai/autoscientist/interpreting-results | autoscientist run retrieval, win rates, and iteration metrics | tr-09 | 2026-09-15 |
+| https://docs.adaptionlabs.ai/resources/faq | adaptionlabs platform faq covering blueprint, forge, and credits | tr-09 | 2026-09-15 |
